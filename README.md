@@ -4,7 +4,7 @@ commons-math3を利用して、各分布のグラフを表示するプログラ�
 
 
 ## Description ##
-![distgraph tool](images/ucJavaTool.jpg)
+![distgraph tool](images/ucDistGraph.jpg)
 
 ## Demo ##
 
@@ -12,7 +12,6 @@ commons-math3を利用して、各分布のグラフを表示するプログラ�
 
 ## Requirement ##
 java11対応
-mongo c driver 1.17  
 
 ## Usage ##
 詳細は、
@@ -20,8 +19,8 @@ https://github.com/siranovel/distgraph/wiki
 
 ## install ##
     git clone https://github.com/siranovel/distgraph.git  
-    cd javatool  
-    rpm -ivh <rpmファイル名>  
+    cd distgraph/bin  
+    tarファイルを解答  
 
 ## Contribution ##
 
