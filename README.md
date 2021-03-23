@@ -20,7 +20,7 @@ https://github.com/siranovel/distgraph/wiki
 ## install ##
     git clone https://github.com/siranovel/distgraph.git  
     cd distgraph/bin  
-    tarファイルを解答  
+    tarファイルを解凍  
 
 ## Contribution ##
 
