@@ -11,9 +11,9 @@ commons-math3を利用して、各分布のグラフを表示するプログラ�
 ## VS. ##
 
 ## Requirement ##
-java11対応
+java11対応  
 Apache common math3  
-jfreechart
+jfreechart  
 
 ## Usage ##
 詳細は、
