@@ -6,23 +6,23 @@ commons-math3を利用して、各分布のグラフを表示するプログラ�
 ## Description ##
 ![distgraph tool](images/ucDistGraph.jpg)
 
+詳細は、https://siranovel.github.io/mydocs/distgraph  
+
 ## Demo ##
 
 ## VS. ##
 
 ## Requirement ##
 java11対応  
-Apache common math3  
+Apache commons-math3  
 jfreechart  
 
 ## Usage ##
-詳細は、
-https://github.com/siranovel/distgraph/wiki
 
 ## install ##
     git clone https://github.com/siranovel/distgraph.git  
     cd distgraph/bin  
-    tarファイルを解凍  
+    任意ディレクトリへコピーし、tarファイルを解凍  
 
 ## Contribution ##
 
