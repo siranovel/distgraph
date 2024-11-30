@@ -1,36 +1,39 @@
-﻿distgraph
-=========
-commons-math3を利用して、各分布のグラフを表示するプログラムです。
+num4distgraph
+=============
+数値計算による各分布のグラフを表示
 
-
-## Description ##
-![distgraph tool](images/ucDistGraph.jpg)
-
-詳細は、https://siranovel.github.io/mydocs/distgraph  
+## decscription ##
 
 ## Demo ##
 
 ## VS. ##
 
 ## Requirement ##
-java11対応  
-Apache commons-math3  
-jfreechart  ver 1.0.19
+ruby FFI-compilerライブラリ
 
 ## Usage ##
 
 ## install ##
-    git clone https://github.com/siranovel/distgraph.git  
-    cd distgraph/bin  
-    任意ディレクトリへコピーし、tarファイルを解凍  
+
+From rubygems:  
+~~~
+    [sudo] gem install num4distgraph
+~~~
+
+or from the git repository on github:  
+~~~
+    git clone https://github.com/siranovel/num4distgraph.git  
+    cd helloci  
+    jruby -S gem build num4distgraph.gemspec
+    jruby -S gem install num4distgraph
+~~~
 
 ## Contribution ##
 
 ## Licence ##
-
-[GPLv2](LICENSE)
-
+[MIT](LICENSE)
 
 ## Author ##
 
 [siranovel](https://github.com/siranovel)
+
