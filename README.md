@@ -4,6 +4,8 @@ num4distgraph
 
 ## decscription ##
 
+詳細は、https://siranovel.github.io/mydocs/distgraph 
+
 ## Demo ##
 
 ## VS. ##
