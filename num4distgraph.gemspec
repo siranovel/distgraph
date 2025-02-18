@@ -8,7 +8,6 @@ Gem::Specification.new do |s|
   s.email         = "siranovel@gmail.com"
   s.homepage      = "http://github.com/siranovel/num4distgraph"
   s.license       = "MIT"
-  s.platform      = "java"
   s.files       = ["LICENSE", "Gemfile", "CHANGELOG.md"]
   s.files       += Dir.glob("{lib,ext}/**/*")
   s.extensions  = %w[Rakefile]
