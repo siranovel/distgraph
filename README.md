@@ -4,7 +4,7 @@ num4distgraph
 
 ## decscription ##
 
-詳細は、https://siranovel.github.io/mydocs/distgraph 
+詳細は、https://siranovel.github.io/mydocs/distgraph  
 
 ## Demo ##
 
@@ -14,6 +14,8 @@ num4distgraph
 ruby FFI-compilerライブラリ
 
 ## Usage ##
+
+sample/spec内の各ファイル参照
 
 ## install ##
 
@@ -25,7 +27,7 @@ From rubygems:
 or from the git repository on github:  
 ~~~
     git clone https://github.com/siranovel/num4distgraph.git  
-    cd helloci  
+    cd num4distgraph  
     jruby -S gem build num4distgraph.gemspec
     jruby -S gem install num4distgraph
 ~~~
